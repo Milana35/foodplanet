@@ -1,0 +1,10 @@
+.reviews{
+    width: 276px;
+    height: 32px;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    padding: 0px 200px;
+}

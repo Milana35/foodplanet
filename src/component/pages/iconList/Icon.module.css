@@ -1,0 +1,20 @@
+.block{
+    text-align: center;
+    padding: 0px 117px;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+
+.icon_block{
+    width: 264px;
+    border: 0 solid #2B4241;
+    border-radius: 40px;
+    background: #FFFFFF;
+    color:  #000000;
+}
+

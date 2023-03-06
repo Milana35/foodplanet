@@ -1,0 +1,50 @@
+.main{
+    display: block;
+    color: #1D3130;
+}
+
+th {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 235px 30px 345px;
+    font-size: 20px;
+    color: #21705a;
+    font-weight: 900;
+}
+
+.bascket_title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.burger{
+    border: 2px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 133px 10px 10px;
+    margin: 0px 0px 15px 0px;
+}
+
+.pizza{
+    border: 2px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 133px 10px 10px;
+}
+
+
+.button_link{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 30px 10px;
+}
+
+.button_link button{
+    background-color: #5497c9;
+    color: white;
+    padding: 0px 50px 0px 50px;
+}

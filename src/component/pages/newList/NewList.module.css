@@ -1,0 +1,64 @@
+.block{
+    text-align: center;
+    padding: 0px 117px;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+
+}
+
+.info_block{
+    width: 264px;
+    border: 0 solid #2B4241;
+    border-radius: 40px;
+    background-color: #2B4241;
+    color: white;
+}
+.listh4{
+    color: #FFFFFF;
+}
+
+.listp{
+    color: #FFFFFF;
+}
+
+.input_two{
+    border: none;
+    text-align: center;
+    color: #dfdbdb;
+    background-color: #2b4241;
+
+}
+
+.amount {
+    display: flex;
+    justify-content: center
+}
+.amount_btn{
+    color: #ff583e;
+    background-color: #2b4241;
+    border: none;
+}
+
+.amount_input{
+    color: #ff583e;
+    background-color: #2b4241;
+    width: 31px;
+    align-items: center;
+    text-align: center;
+    border: none;
+}
+
+.btn{
+    width: 200px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 14px;
+    background: #FF583E;
+    border-radius: 40px;
+    border: 1px solid #FF583E;
+    color: white;
+}

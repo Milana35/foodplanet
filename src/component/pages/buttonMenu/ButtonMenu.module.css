@@ -1,0 +1,10 @@
+.btn_menu{
+    width: 200px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 14px;
+    background: #254F4C;
+    border-radius: 40px;
+    border: 1px solid #254F4C;
+    color: white;
+}

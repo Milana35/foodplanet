@@ -1,0 +1,28 @@
+.hdr {
+    border-bottom: 1px solid #dfdbdb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    list-style-type: none;
+    color: #1D3130;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    padding: 0px 117px;
+}
+
+.btn1{
+    background-color: white;
+    color: #1D3130;
+    border: 0px;
+}
+
+.btn2{
+    background-color: white;
+    color: #1D3130;
+    border: 0px;
+}
+

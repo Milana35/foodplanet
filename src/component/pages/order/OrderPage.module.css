@@ -1,0 +1,113 @@
+.main {
+    padding: 10px 10px;
+}
+
+.link {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 1100px 0px 0px;
+    margin: 25px 0px 25px 0px;
+}
+
+.title_order h2 {
+    margin: 15px 0px
+}
+
+.title_order th {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 235px 30px 345px;
+    font-size: 20px;
+    color: #21705a;
+    font-weight: 900;
+}
+
+.date {
+    display: flex;
+    flex-wrap: wrap!important;
+    box-sizing: border-box;
+    height: 45px;
+    margin-bottom: 8px;
+}
+
+.date input{
+    width: 300px;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: 1px solid #D2D2D7;
+    font-size: 14px;
+    margin-top: 7px;
+}
+
+.title li{
+    display: inline-block;
+    padding: 10px 120px;
+    list-style-type: none;
+}
+
+.order{
+    border: 2px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 133px 10px 10px;
+    margin: 10px 0px;
+}
+
+.address_order{
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid #D2D2D7;
+    border-radius: 5px;
+    padding: 15px 15px;
+    width: 360px;
+}
+
+.label{
+    display: flex;
+    gap: 25px;
+    padding: 15px 10px 15px 10px;
+}
+
+.address_select{
+    display: flex;
+    gap: 25px;
+    padding: 10px 10px 10px 13px;
+}
+
+select{
+    width: 360px;
+    height: 54px;
+    border-radius: 5px;
+}
+
+.address_input{
+    width: 360px;
+    height: 47px;
+    border-radius: 5px;
+}
+
+.pay_div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.pay{
+    display: flex;
+    box-sizing: border-box;
+    border: 1px solid #D2D2D7;
+    border-radius: 5px;
+    padding: 15px 15px;
+    width: 360px;
+    height: 64px;
+    align-items: center;
+}
+
+textarea{
+    width: 100%;
+    height: 90px;
+    border-radius: 5px;
+    border: 1px solid #D2D2D7;
+    padding: 21px 25px;
+}

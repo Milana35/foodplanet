@@ -1,0 +1,41 @@
+.delivery {
+    display: block;
+    background: #FCFCFC;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1D3130;
+    padding: 0px 117px;
+
+}
+
+.img{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 65px 0px 65px;
+}
+
+.listtype{
+    list-style-type: none;
+    padding: 100px 0px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 0px 0px 0px 120px;
+}
+
+.btn{
+    width: 216px;
+    height: 49px;
+    left: 200px;
+    top: 415px;
+    border: 0 solid #FF583E;
+    background: #FF583E;
+    border-radius: 100px;
+    color: #dfdbdb;
+}
+

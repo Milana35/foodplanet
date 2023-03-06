@@ -1,0 +1,42 @@
+.block{
+    text-align: center;
+    padding: 0px 117px;
+    /*padding: 0px 39px 0px 10px;*/
+}
+
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.list_block{
+    width: 248px;
+    height: 304px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1) ;
+    border: 2px solid #1D3130;
+    border-radius: 40px;
+    background: #FFFDFD;
+    color:  #000000;
+    padding: 21px 17px 0px 17px;
+}
+
+sergey{
+   color: #3B7976;
+   font-weight: 400;
+   font-size: 14px;
+}
+
+p{
+
+    font-weight: 400;
+    font-size: 14px;
+    color: #061817;
+}
+
+.date{
+    font-weight: 300;
+    font-size: 14px;
+    color: #3B7976;
+}
